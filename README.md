@@ -60,7 +60,9 @@ Please feel free to send me [pull requests](https://github.com/ovision/awesome-d
 * [ROS环境下Pixhawk+XPlane半实物仿真](https://blog.csdn.net/DQ_Lab/article/details/72453552) - from CSDN
 * [pixhawk原生固件笔记](https://blog.csdn.net/u013859301/article/details/51301652) - from CSDN
 * [pixhawk官方文档](https://dev.px4.io) - from px4
-
+* [NVidia TX1 as a Companion Computer mavlink](http://ardupilot.org/dev/docs/companion-computer-nvidia-tx1.html) - from ardupilot.org
+* [3DR Iris Setup -nvidia redtail](https://github.com/NVIDIA-Jetson/redtail/wiki/3DR-Iris-Setup#jetson-to-pixhawk-wiring) - from Nvidia
+* [Communicating with Raspberry Pi via MAVLink](http://ardupilot.org/dev/docs/raspberry-pi-via-mavlink.html) - from ardupilot.org
 
 
 #### Computer Vision
