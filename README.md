@@ -54,7 +54,7 @@ Please feel free to send me [pull requests](https://github.com/ovision/awesome-d
 
 ## Courses
 
-#### ROS Pixhawk
+#### ROS Pixhawk mavros mavlink
 * [初学PX4之环境搭建](https://www.jianshu.com/p/36dac548106b) - from简书
 * [无人机通讯协议 --Mavlink 学习](https://www.jianshu.com/p/23fddff60369) - from简书
 * [ROS环境下Pixhawk+XPlane半实物仿真](https://blog.csdn.net/DQ_Lab/article/details/72453552) - from CSDN
