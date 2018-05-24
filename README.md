@@ -54,17 +54,6 @@ Please feel free to send me [pull requests](https://github.com/ovision/awesome-d
 
 ## Courses
 
-#### ROS Pixhawk mavros mavlink
-* [初学PX4之环境搭建](https://www.jianshu.com/p/36dac548106b) - from简书
-* [无人机通讯协议 --Mavlink 学习](https://www.jianshu.com/p/23fddff60369) - from简书
-* [ROS环境下Pixhawk+XPlane半实物仿真](https://blog.csdn.net/DQ_Lab/article/details/72453552) - from CSDN
-* [pixhawk原生固件笔记](https://blog.csdn.net/u013859301/article/details/51301652) - from CSDN
-* [pixhawk官方文档](https://dev.px4.io) - from px4
-* [NVidia TX1 as a Companion Computer mavlink](http://ardupilot.org/dev/docs/companion-computer-nvidia-tx1.html) - from ardupilot.org
-* [3DR Iris Setup -nvidia redtail](https://github.com/NVIDIA-Jetson/redtail/wiki/3DR-Iris-Setup#jetson-to-pixhawk-wiring) - from Nvidia
-* [Communicating with Raspberry Pi via MAVLink](http://ardupilot.org/dev/docs/raspberry-pi-via-mavlink.html) - from ardupilot.org
-
-
 #### Computer Vision
  * [EENG 512 / CSCI 512 - Computer Vision](http://inside.mines.edu/~whoff/courses/EENG512/) - William Hoff (Colorado School of Mines)
  * [Visual Object and Activity Recognition](https://sites.google.com/site/ucbcs29443/) - Alexei A. Efros and Trevor Darrell (UC Berkeley)
@@ -142,6 +131,19 @@ Please feel free to send me [pull requests](https://github.com/ovision/awesome-d
  * [Computer Vision: A Reference Guide](http://link.springer.com/book/10.1007/978-0-387-31439-6)
 
 ## Tutorials and talks
+
+
+#### ROS | Pixhawk | mavros | mavlink
+* [初学PX4之环境搭建](https://www.jianshu.com/p/36dac548106b) - from简书
+* [无人机通讯协议 --Mavlink 学习](https://www.jianshu.com/p/23fddff60369) - from简书
+* [ROS环境下Pixhawk+XPlane半实物仿真](https://blog.csdn.net/DQ_Lab/article/details/72453552) - from CSDN
+* [pixhawk原生固件笔记](https://blog.csdn.net/u013859301/article/details/51301652) - from CSDN
+* [pixhawk官方文档](https://dev.px4.io) - from px4
+* [NVidia TX1 as a Companion Computer mavlink](http://ardupilot.org/dev/docs/companion-computer-nvidia-tx1.html) - from ardupilot.org
+* [3DR Iris Setup -nvidia redtail](https://github.com/NVIDIA-Jetson/redtail/wiki/3DR-Iris-Setup#jetson-to-pixhawk-wiring) - from Nvidia
+* [Communicating with Raspberry Pi via MAVLink](http://ardupilot.org/dev/docs/raspberry-pi-via-mavlink.html) - from ardupilot.org
+
+
 
 #### Computer Vision
  * [Computer Vision Talks](http://www.computervisiontalks.com/) - Lectures, keynotes, panel discussions on computer vision
