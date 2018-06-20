@@ -143,6 +143,14 @@ Please feel free to send me [pull requests](https://github.com/ovision/awesome-d
 * [3DR Iris Setup -nvidia redtail](https://github.com/NVIDIA-Jetson/redtail/wiki/3DR-Iris-Setup#jetson-to-pixhawk-wiring) - from Nvidia
 * [Communicating with Raspberry Pi via MAVLink](http://ardupilot.org/dev/docs/raspberry-pi-via-mavlink.html) - from ardupilot.org
 
+* [tx2 Dev board UART and Pixhawk connection](https://github.com/NVIDIA-Jetson/redtail/wiki/Dev-board-UART-and-Pixhawk-connection) - from Nvidia
+
+* [Ground Rover with Mavros](https://pixhawk.org/dev/ros/ground_rover) - pixhawk
+* [PX4 simulation](http://ardupilot.org/dev/docs/simulation-2.html) - from pixhawk
+
+
+
+
 
 
 #### Computer Vision
