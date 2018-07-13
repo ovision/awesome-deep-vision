@@ -148,6 +148,9 @@ Please feel free to send me [pull requests](https://github.com/ovision/awesome-d
 * [Ground Rover with Mavros](https://pixhawk.org/dev/ros/ground_rover) - pixhawk
 * [PX4 simulation](http://ardupilot.org/dev/docs/simulation-2.html) - from pixhawk
 
+* [Raspberry Pi AutoCar](https://github.com/zhaoying9105/AutoRCCar) - from Github
+
+
 
 
 
